@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mboIywzxw47ZXjuxXFERjG+ool799hOWh0faln6HaAU=",
+  "Source": "FunctionCallingServer",
+  "BasePath": "_content/FunctionCallingServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

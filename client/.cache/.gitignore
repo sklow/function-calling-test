@@ -1,0 +1,6 @@
+# キャッシュファイルを除外
+*.json
+*.cache
+
+# ただし、.gitignoreファイル自体は追跡する
+!.gitignore

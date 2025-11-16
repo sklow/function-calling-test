@@ -1,0 +1,23 @@
+# Python依存パッケージリスト
+# Function Calling Test - Client Side
+
+# HTTPリクエスト処理
+requests>=2.31.0
+
+# データバリデーション
+pydantic>=2.0.0
+
+# JSONスキーマバリデーション
+jsonschema>=4.17.0
+
+# 環境変数管理
+python-dotenv>=1.0.0
+
+# Ollama Python SDK
+ollama
+
+# リトライ処理
+tenacity>=8.0.0
+
+# CLI UI強化（任意）
+rich

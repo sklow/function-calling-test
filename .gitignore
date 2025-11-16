@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+*.egg-info/
+dist/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.swp
+*.tmp
+
+# IDE
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+client.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
